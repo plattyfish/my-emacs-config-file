@@ -1,2 +1,2 @@
 # my-emacs-config-file
-Learning to upload to github from git command line
+My current emacs config file as of 05/12/2023
